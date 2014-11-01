@@ -1,0 +1,14 @@
+[
+    {
+        "name": "Lagiacrus",
+        "drops": {
+            "head": {
+                "horn": 0.75,
+                "carapace": 0.25
+            },
+            "back": {
+                "Dshocker": 1
+            }
+        }
+    }
+]
